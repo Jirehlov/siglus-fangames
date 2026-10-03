@@ -1,0 +1,29 @@
+{
+  "type": 2,
+  "canvas": {
+    "width": 44,
+    "height": 24
+  },
+  "cuts": [
+    {
+      "index": 0,
+      "source": "sm_locator_00.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 24
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 43,
+        "y1": 23
+      }
+    }
+  ],
+  "default_center": {
+    "x": 0,
+    "y": 0
+  }
+}

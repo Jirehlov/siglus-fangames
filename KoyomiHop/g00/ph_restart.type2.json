@@ -1,0 +1,45 @@
+{
+  "type": 2,
+  "canvas": {
+    "width": 384,
+    "height": 54
+  },
+  "cuts": [
+    {
+      "index": 0,
+      "source": "ph_restart_00.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 384,
+        "h": 54
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 383,
+        "y1": 53
+      }
+    },
+    {
+      "index": 1,
+      "source": "ph_restart_01.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 384,
+        "h": 54
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 383,
+        "y1": 53
+      }
+    }
+  ],
+  "default_center": {
+    "x": 0,
+    "y": 0
+  }
+}

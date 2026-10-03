@@ -1,0 +1,109 @@
+{
+  "type": 2,
+  "canvas": {
+    "width": 128,
+    "height": 64
+  },
+  "cuts": [
+    {
+      "index": 0,
+      "source": "ph_platform_00.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 64
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 127,
+        "y1": 63
+      }
+    },
+    {
+      "index": 1,
+      "source": "ph_platform_01.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 64
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 127,
+        "y1": 63
+      }
+    },
+    {
+      "index": 2,
+      "source": "ph_platform_02.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 64
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 127,
+        "y1": 63
+      }
+    },
+    {
+      "index": 3,
+      "source": "ph_platform_03.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 64
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 127,
+        "y1": 63
+      }
+    },
+    {
+      "index": 4,
+      "source": "ph_platform_04.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 64
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 127,
+        "y1": 63
+      }
+    },
+    {
+      "index": 5,
+      "source": "ph_platform_05.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 64
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 127,
+        "y1": 63
+      }
+    }
+  ],
+  "default_center": {
+    "x": 0,
+    "y": 0
+  }
+}

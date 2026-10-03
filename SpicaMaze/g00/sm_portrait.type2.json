@@ -1,0 +1,29 @@
+{
+  "type": 2,
+  "canvas": {
+    "width": 180,
+    "height": 220
+  },
+  "cuts": [
+    {
+      "index": 0,
+      "source": "sm_portrait_00.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 180,
+        "h": 220
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 179,
+        "y1": 219
+      }
+    }
+  ],
+  "default_center": {
+    "x": 0,
+    "y": 0
+  }
+}

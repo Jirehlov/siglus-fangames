@@ -1,0 +1,45 @@
+{
+  "type": 2,
+  "canvas": {
+    "width": 68,
+    "height": 64
+  },
+  "cuts": [
+    {
+      "index": 0,
+      "source": "ph_bicycle_00.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 68,
+        "h": 64
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 67,
+        "y1": 63
+      }
+    },
+    {
+      "index": 1,
+      "source": "ph_bicycle_01.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 68,
+        "h": 64
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 67,
+        "y1": 63
+      }
+    }
+  ],
+  "default_center": {
+    "x": 0,
+    "y": 0
+  }
+}

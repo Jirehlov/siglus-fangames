@@ -1,0 +1,61 @@
+{
+  "type": 2,
+  "canvas": {
+    "width": 112,
+    "height": 150
+  },
+  "cuts": [
+    {
+      "index": 0,
+      "source": "ph_flight_trail_00.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 150
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 111,
+        "y1": 149
+      }
+    },
+    {
+      "index": 1,
+      "source": "ph_flight_trail_01.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 150
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 111,
+        "y1": 149
+      }
+    },
+    {
+      "index": 2,
+      "source": "ph_flight_trail_02.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 150
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 111,
+        "y1": 149
+      }
+    }
+  ],
+  "default_center": {
+    "x": 0,
+    "y": 0
+  }
+}

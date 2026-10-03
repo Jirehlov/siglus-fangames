@@ -1,0 +1,61 @@
+{
+  "type": 2,
+  "canvas": {
+    "width": 112,
+    "height": 128
+  },
+  "cuts": [
+    {
+      "index": 0,
+      "source": "ph_bird_00.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 128
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 111,
+        "y1": 127
+      }
+    },
+    {
+      "index": 1,
+      "source": "ph_bird_01.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 128
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 111,
+        "y1": 127
+      }
+    },
+    {
+      "index": 2,
+      "source": "ph_bird_02.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 128
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 111,
+        "y1": 127
+      }
+    }
+  ],
+  "default_center": {
+    "x": 0,
+    "y": 0
+  }
+}

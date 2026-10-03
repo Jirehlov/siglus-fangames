@@ -1,0 +1,77 @@
+{
+  "type": 2,
+  "canvas": {
+    "width": 80,
+    "height": 96
+  },
+  "cuts": [
+    {
+      "index": 0,
+      "source": "ph_hero_00.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 96
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 79,
+        "y1": 95
+      }
+    },
+    {
+      "index": 1,
+      "source": "ph_hero_01.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 96
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 79,
+        "y1": 95
+      }
+    },
+    {
+      "index": 2,
+      "source": "ph_hero_02.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 96
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 79,
+        "y1": 95
+      }
+    },
+    {
+      "index": 3,
+      "source": "ph_hero_03.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 96
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 79,
+        "y1": 95
+      }
+    }
+  ],
+  "default_center": {
+    "x": 0,
+    "y": 0
+  }
+}

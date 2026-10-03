@@ -1,0 +1,349 @@
+{
+  "type": 2,
+  "canvas": {
+    "width": 30,
+    "height": 30
+  },
+  "cuts": [
+    {
+      "index": 0,
+      "source": "sm_tiles2_00.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 30
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 29,
+        "y1": 29
+      }
+    },
+    {
+      "index": 1,
+      "source": "sm_tiles2_01.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 30
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 29,
+        "y1": 29
+      }
+    },
+    {
+      "index": 2,
+      "source": "sm_tiles2_02.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 30
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 29,
+        "y1": 29
+      }
+    },
+    {
+      "index": 3,
+      "source": "sm_tiles2_03.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 30
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 29,
+        "y1": 29
+      }
+    },
+    {
+      "index": 4,
+      "source": "sm_tiles2_04.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 30
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 29,
+        "y1": 29
+      }
+    },
+    {
+      "index": 5,
+      "source": "sm_tiles2_05.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 30
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 29,
+        "y1": 29
+      }
+    },
+    {
+      "index": 6,
+      "source": "sm_tiles2_06.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 30
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 29,
+        "y1": 29
+      }
+    },
+    {
+      "index": 7,
+      "source": "sm_tiles2_07.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 30
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 29,
+        "y1": 29
+      }
+    },
+    {
+      "index": 8,
+      "source": "sm_tiles2_08.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 30
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 29,
+        "y1": 29
+      }
+    },
+    {
+      "index": 9,
+      "source": "sm_tiles2_09.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 30
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 29,
+        "y1": 29
+      }
+    },
+    {
+      "index": 10,
+      "source": "sm_tiles2_10.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 30
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 29,
+        "y1": 29
+      }
+    },
+    {
+      "index": 11,
+      "source": "sm_tiles2_11.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 30
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 29,
+        "y1": 29
+      }
+    },
+    {
+      "index": 12,
+      "source": "sm_tiles2_12.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 30
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 29,
+        "y1": 29
+      }
+    },
+    {
+      "index": 13,
+      "source": "sm_tiles2_13.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 30
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 29,
+        "y1": 29
+      }
+    },
+    {
+      "index": 14,
+      "source": "sm_tiles2_14.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 30
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 29,
+        "y1": 29
+      }
+    },
+    {
+      "index": 15,
+      "source": "sm_tiles2_15.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 30
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 29,
+        "y1": 29
+      }
+    },
+    {
+      "index": 16,
+      "source": "sm_tiles2_16.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 30
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 29,
+        "y1": 29
+      }
+    },
+    {
+      "index": 17,
+      "source": "sm_tiles2_17.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 30
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 29,
+        "y1": 29
+      }
+    },
+    {
+      "index": 18,
+      "source": "sm_tiles2_18.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 30
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 29,
+        "y1": 29
+      }
+    },
+    {
+      "index": 19,
+      "source": "sm_tiles2_19.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 30
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 29,
+        "y1": 29
+      }
+    },
+    {
+      "index": 20,
+      "source": "sm_tiles2_20.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 30
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 29,
+        "y1": 29
+      }
+    }
+  ],
+  "default_center": {
+    "x": 0,
+    "y": 0
+  }
+}

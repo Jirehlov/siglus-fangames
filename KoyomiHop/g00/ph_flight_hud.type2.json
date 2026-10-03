@@ -1,0 +1,45 @@
+{
+  "type": 2,
+  "canvas": {
+    "width": 244,
+    "height": 54
+  },
+  "cuts": [
+    {
+      "index": 0,
+      "source": "ph_flight_hud_00.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 244,
+        "h": 54
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 243,
+        "y1": 53
+      }
+    },
+    {
+      "index": 1,
+      "source": "ph_flight_hud_01.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 244,
+        "h": 54
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 243,
+        "y1": 53
+      }
+    }
+  ],
+  "default_center": {
+    "x": 0,
+    "y": 0
+  }
+}

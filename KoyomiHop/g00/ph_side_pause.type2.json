@@ -1,0 +1,77 @@
+{
+  "type": 2,
+  "canvas": {
+    "width": 240,
+    "height": 46
+  },
+  "cuts": [
+    {
+      "index": 0,
+      "source": "ph_side_pause_00.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 240,
+        "h": 46
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 239,
+        "y1": 45
+      }
+    },
+    {
+      "index": 1,
+      "source": "ph_side_pause_01.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 240,
+        "h": 46
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 239,
+        "y1": 45
+      }
+    },
+    {
+      "index": 2,
+      "source": "ph_side_pause_02.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 240,
+        "h": 46
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 239,
+        "y1": 45
+      }
+    },
+    {
+      "index": 3,
+      "source": "ph_side_pause_03.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 240,
+        "h": 46
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 239,
+        "y1": 45
+      }
+    }
+  ],
+  "default_center": {
+    "x": 0,
+    "y": 0
+  }
+}

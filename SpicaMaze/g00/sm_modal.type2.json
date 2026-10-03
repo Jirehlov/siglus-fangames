@@ -1,0 +1,45 @@
+{
+  "type": 2,
+  "canvas": {
+    "width": 480,
+    "height": 494
+  },
+  "cuts": [
+    {
+      "index": 0,
+      "source": "sm_modal_00.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 480,
+        "h": 494
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 479,
+        "y1": 493
+      }
+    },
+    {
+      "index": 1,
+      "source": "sm_modal_01.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 480,
+        "h": 494
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 479,
+        "y1": 493
+      }
+    }
+  ],
+  "default_center": {
+    "x": 0,
+    "y": 0
+  }
+}

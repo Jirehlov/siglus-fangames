@@ -1,0 +1,29 @@
+{
+  "type": 2,
+  "canvas": {
+    "width": 976,
+    "height": 800
+  },
+  "cuts": [
+    {
+      "index": 0,
+      "source": "sm_title_00.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 976,
+        "h": 800
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 975,
+        "y1": 799
+      }
+    }
+  ],
+  "default_center": {
+    "x": 0,
+    "y": 0
+  }
+}

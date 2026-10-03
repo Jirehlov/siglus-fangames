@@ -1,0 +1,29 @@
+{
+  "type": 2,
+  "canvas": {
+    "width": 230,
+    "height": 6
+  },
+  "cuts": [
+    {
+      "index": 0,
+      "source": "sm_progress_00.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 6
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 229,
+        "y1": 5
+      }
+    }
+  ],
+  "default_center": {
+    "x": 0,
+    "y": 0
+  }
+}

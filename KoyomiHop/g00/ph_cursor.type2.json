@@ -1,0 +1,29 @@
+{
+  "type": 2,
+  "canvas": {
+    "width": 32,
+    "height": 32
+  },
+  "cuts": [
+    {
+      "index": 0,
+      "source": "ph_cursor_00.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 31,
+        "y1": 31
+      }
+    }
+  ],
+  "default_center": {
+    "x": 0,
+    "y": 0
+  }
+}

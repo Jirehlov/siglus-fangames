@@ -1,0 +1,173 @@
+{
+  "type": 2,
+  "canvas": {
+    "width": 20,
+    "height": 40
+  },
+  "cuts": [
+    {
+      "index": 0,
+      "source": "ph_digits_small_00.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 40
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 19,
+        "y1": 39
+      }
+    },
+    {
+      "index": 1,
+      "source": "ph_digits_small_01.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 40
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 19,
+        "y1": 39
+      }
+    },
+    {
+      "index": 2,
+      "source": "ph_digits_small_02.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 40
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 19,
+        "y1": 39
+      }
+    },
+    {
+      "index": 3,
+      "source": "ph_digits_small_03.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 40
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 19,
+        "y1": 39
+      }
+    },
+    {
+      "index": 4,
+      "source": "ph_digits_small_04.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 40
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 19,
+        "y1": 39
+      }
+    },
+    {
+      "index": 5,
+      "source": "ph_digits_small_05.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 40
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 19,
+        "y1": 39
+      }
+    },
+    {
+      "index": 6,
+      "source": "ph_digits_small_06.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 40
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 19,
+        "y1": 39
+      }
+    },
+    {
+      "index": 7,
+      "source": "ph_digits_small_07.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 40
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 19,
+        "y1": 39
+      }
+    },
+    {
+      "index": 8,
+      "source": "ph_digits_small_08.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 40
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 19,
+        "y1": 39
+      }
+    },
+    {
+      "index": 9,
+      "source": "ph_digits_small_09.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 40
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 19,
+        "y1": 39
+      }
+    }
+  ],
+  "default_center": {
+    "x": 0,
+    "y": 0
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "type": 2,
+  "canvas": {
+    "width": 244,
+    "height": 24
+  },
+  "cuts": [
+    {
+      "index": 0,
+      "source": "ph_wind_hint_00.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 244,
+        "h": 24
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 243,
+        "y1": 23
+      }
+    },
+    {
+      "index": 1,
+      "source": "ph_wind_hint_01.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 244,
+        "h": 24
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 243,
+        "y1": 23
+      }
+    },
+    {
+      "index": 2,
+      "source": "ph_wind_hint_02.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 244,
+        "h": 24
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 243,
+        "y1": 23
+      }
+    },
+    {
+      "index": 3,
+      "source": "ph_wind_hint_03.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 244,
+        "h": 24
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 243,
+        "y1": 23
+      }
+    },
+    {
+      "index": 4,
+      "source": "ph_wind_hint_04.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 244,
+        "h": 24
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 243,
+        "y1": 23
+      }
+    },
+    {
+      "index": 5,
+      "source": "ph_wind_hint_05.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 244,
+        "h": 24
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 243,
+        "y1": 23
+      }
+    }
+  ],
+  "default_center": {
+    "x": 0,
+    "y": 0
+  }
+}

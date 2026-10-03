@@ -1,0 +1,45 @@
+{
+  "type": 2,
+  "canvas": {
+    "width": 38,
+    "height": 38
+  },
+  "cuts": [
+    {
+      "index": 0,
+      "source": "ph_letter_00.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 38
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 37,
+        "y1": 37
+      }
+    },
+    {
+      "index": 1,
+      "source": "ph_letter_01.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 38
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 37,
+        "y1": 37
+      }
+    }
+  ],
+  "default_center": {
+    "x": 0,
+    "y": 0
+  }
+}

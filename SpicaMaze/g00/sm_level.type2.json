@@ -1,0 +1,157 @@
+{
+  "type": 2,
+  "canvas": {
+    "width": 212,
+    "height": 64
+  },
+  "cuts": [
+    {
+      "index": 0,
+      "source": "sm_level_00.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 212,
+        "h": 64
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 211,
+        "y1": 63
+      }
+    },
+    {
+      "index": 1,
+      "source": "sm_level_01.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 212,
+        "h": 64
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 211,
+        "y1": 63
+      }
+    },
+    {
+      "index": 2,
+      "source": "sm_level_02.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 212,
+        "h": 64
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 211,
+        "y1": 63
+      }
+    },
+    {
+      "index": 3,
+      "source": "sm_level_03.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 212,
+        "h": 64
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 211,
+        "y1": 63
+      }
+    },
+    {
+      "index": 4,
+      "source": "sm_level_04.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 212,
+        "h": 64
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 211,
+        "y1": 63
+      }
+    },
+    {
+      "index": 5,
+      "source": "sm_level_05.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 212,
+        "h": 64
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 211,
+        "y1": 63
+      }
+    },
+    {
+      "index": 6,
+      "source": "sm_level_06.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 212,
+        "h": 64
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 211,
+        "y1": 63
+      }
+    },
+    {
+      "index": 7,
+      "source": "sm_level_07.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 212,
+        "h": 64
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 211,
+        "y1": 63
+      }
+    },
+    {
+      "index": 8,
+      "source": "sm_level_08.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 212,
+        "h": 64
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 211,
+        "y1": 63
+      }
+    }
+  ],
+  "default_center": {
+    "x": 0,
+    "y": 0
+  }
+}

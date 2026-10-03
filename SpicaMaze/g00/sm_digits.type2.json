@@ -1,0 +1,173 @@
+{
+  "type": 2,
+  "canvas": {
+    "width": 26,
+    "height": 42
+  },
+  "cuts": [
+    {
+      "index": 0,
+      "source": "sm_digits_00.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 42
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 25,
+        "y1": 41
+      }
+    },
+    {
+      "index": 1,
+      "source": "sm_digits_01.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 42
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 25,
+        "y1": 41
+      }
+    },
+    {
+      "index": 2,
+      "source": "sm_digits_02.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 42
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 25,
+        "y1": 41
+      }
+    },
+    {
+      "index": 3,
+      "source": "sm_digits_03.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 42
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 25,
+        "y1": 41
+      }
+    },
+    {
+      "index": 4,
+      "source": "sm_digits_04.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 42
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 25,
+        "y1": 41
+      }
+    },
+    {
+      "index": 5,
+      "source": "sm_digits_05.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 42
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 25,
+        "y1": 41
+      }
+    },
+    {
+      "index": 6,
+      "source": "sm_digits_06.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 42
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 25,
+        "y1": 41
+      }
+    },
+    {
+      "index": 7,
+      "source": "sm_digits_07.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 42
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 25,
+        "y1": 41
+      }
+    },
+    {
+      "index": 8,
+      "source": "sm_digits_08.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 42
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 25,
+        "y1": 41
+      }
+    },
+    {
+      "index": 9,
+      "source": "sm_digits_09.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 42
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 25,
+        "y1": 41
+      }
+    }
+  ],
+  "default_center": {
+    "x": 0,
+    "y": 0
+  }
+}

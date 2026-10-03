@@ -1,0 +1,29 @@
+{
+  "type": 2,
+  "canvas": {
+    "width": 320,
+    "height": 900
+  },
+  "cuts": [
+    {
+      "index": 0,
+      "source": "ph_sidebar_00.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 320,
+        "h": 900
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 319,
+        "y1": 899
+      }
+    }
+  ],
+  "default_center": {
+    "x": 0,
+    "y": 0
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "type": 2,
+  "canvas": {
+    "width": 360,
+    "height": 62
+  },
+  "cuts": [
+    {
+      "index": 0,
+      "source": "sm_btn_title_00.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 360,
+        "h": 62
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 359,
+        "y1": 61
+      }
+    },
+    {
+      "index": 1,
+      "source": "sm_btn_title_01.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 360,
+        "h": 62
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 359,
+        "y1": 61
+      }
+    }
+  ],
+  "default_center": {
+    "x": 0,
+    "y": 0
+  }
+}

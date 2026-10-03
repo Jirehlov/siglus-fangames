@@ -1,0 +1,45 @@
+{
+  "type": 2,
+  "canvas": {
+    "width": 112,
+    "height": 30
+  },
+  "cuts": [
+    {
+      "index": 0,
+      "source": "ph_wind_streak_00.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 30
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 111,
+        "y1": 29
+      }
+    },
+    {
+      "index": 1,
+      "source": "ph_wind_streak_01.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 30
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 111,
+        "y1": 29
+      }
+    }
+  ],
+  "default_center": {
+    "x": 0,
+    "y": 0
+  }
+}

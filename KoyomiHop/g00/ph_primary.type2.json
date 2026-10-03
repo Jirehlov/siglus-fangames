@@ -1,0 +1,109 @@
+{
+  "type": 2,
+  "canvas": {
+    "width": 384,
+    "height": 64
+  },
+  "cuts": [
+    {
+      "index": 0,
+      "source": "ph_primary_00.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 384,
+        "h": 64
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 383,
+        "y1": 63
+      }
+    },
+    {
+      "index": 1,
+      "source": "ph_primary_01.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 384,
+        "h": 64
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 383,
+        "y1": 63
+      }
+    },
+    {
+      "index": 2,
+      "source": "ph_primary_02.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 384,
+        "h": 64
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 383,
+        "y1": 63
+      }
+    },
+    {
+      "index": 3,
+      "source": "ph_primary_03.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 384,
+        "h": 64
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 383,
+        "y1": 63
+      }
+    },
+    {
+      "index": 4,
+      "source": "ph_primary_04.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 384,
+        "h": 64
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 383,
+        "y1": 63
+      }
+    },
+    {
+      "index": 5,
+      "source": "ph_primary_05.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 384,
+        "h": 64
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 383,
+        "y1": 63
+      }
+    }
+  ],
+  "default_center": {
+    "x": 0,
+    "y": 0
+  }
+}

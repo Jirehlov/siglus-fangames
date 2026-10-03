@@ -1,0 +1,45 @@
+{
+  "type": 2,
+  "canvas": {
+    "width": 1024,
+    "height": 768
+  },
+  "cuts": [
+    {
+      "index": 0,
+      "source": "sm_fog_00.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 768
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 1023,
+        "y1": 767
+      }
+    },
+    {
+      "index": 1,
+      "source": "sm_fog_01.png",
+      "source_rect": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 768
+      },
+      "canvas_rect": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 1023,
+        "y1": 767
+      }
+    }
+  ],
+  "default_center": {
+    "x": 0,
+    "y": 0
+  }
+}
